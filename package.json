@@ -2,7 +2,7 @@
   "name": "gdtoolkit-gdformat",
   "displayName": "GDToolkit: GDFormat",
   "description": "A VS Code extension which formats GDScript files using GDToolkit's GDFormat command.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "coffeebeats",
   "engines": {
     "vscode": "^1.89.0"
